@@ -1,6 +1,8 @@
 #[
-    Author: HopScotch, Twitter: @0xHop
-    License: BSD 3-Clause
+    Author: jmfl 
+
+inspired by HopScotch, Twitter: @0xHop
+   
 ]#
 
 import winim/lean
