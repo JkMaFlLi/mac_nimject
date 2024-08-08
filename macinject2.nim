@@ -2,6 +2,8 @@
     Author: jmfl 
 
 inspired by HopScotch, Twitter: @0xHop
+
+original code: offensive nim - src/shellcode_fiber.nim
    
 ]#
 
